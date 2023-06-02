@@ -1,2 +1,8 @@
-# Audio_to_text_application
-Conver audio file to searchable text files 
+# Audio to text application
+
+Steamlit application to conver audio file to searchable transcripts
+
+### Run application
+streamlit run app.py
+
+
